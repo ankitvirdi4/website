@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro: "SF Pro";
+  --font-suez-one: "Suez One";
+
+  /* font sizes */
+  --font-size-lg-7: 18.7px;
+  --font-size-15xl-2: 34.2px;
+  --font-size-81xl: 100px;
+  --font-size-25xl: 44px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --fff2d2: #fff2d2;
+  --color-darkslategray: #313743;
+  --white: #fff;
+  --color-greenyellow-100: #c5fe56;
+}
